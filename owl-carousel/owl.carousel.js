@@ -3,7 +3,7 @@
  *  
  *	Copyright (c) 2013 Bartosz Wojciechowski
  *	http://www.owlgraphic.com/owlcarousel
- *
+ *      https://tutorialike.com
  *	Licensed under MIT
  *
  */
